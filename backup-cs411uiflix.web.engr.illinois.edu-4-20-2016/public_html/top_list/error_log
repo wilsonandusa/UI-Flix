@@ -1,0 +1,55 @@
+[16-Mar-2016 21:24:34 America/Chicago] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:24:34 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:24:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 24
+[16-Mar-2016 21:24:34 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/cs411uiflix/public_html/top_list/top_list.php on line 30
+[16-Mar-2016 21:28:44 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:28:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/cs411uiflix/public_html/top_list/top_list.php on line 24
+[16-Mar-2016 21:28:44 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/cs411uiflix/public_html/top_list/top_list.php on line 30
+[16-Mar-2016 21:30:10 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 24
+[16-Mar-2016 21:30:10 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/cs411uiflix/public_html/top_list/top_list.php on line 30
+[16-Mar-2016 21:31:25 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 24
+[16-Mar-2016 21:31:25 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/cs411uiflix/public_html/top_list/top_list.php on line 30
+[16-Mar-2016 21:31:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 24
+[16-Mar-2016 21:31:26 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/cs411uiflix/public_html/top_list/top_list.php on line 30
+[16-Mar-2016 21:31:28 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 24
+[16-Mar-2016 21:31:28 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/cs411uiflix/public_html/top_list/top_list.php on line 30
+[16-Mar-2016 21:32:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 24
+[16-Mar-2016 21:32:23 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/cs411uiflix/public_html/top_list/top_list.php on line 30
+[16-Mar-2016 21:36:21 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:36:21 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/cs411uiflix/public_html/top_list/top_list.php on line 24
+[16-Mar-2016 21:36:21 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/cs411uiflix/public_html/top_list/top_list.php on line 30
+[16-Mar-2016 21:36:38 America/Chicago] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:36:38 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:36:38 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 24
+[16-Mar-2016 21:36:38 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/cs411uiflix/public_html/top_list/top_list.php on line 30
+[16-Mar-2016 21:36:46 America/Chicago] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:36:46 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:36:46 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 24
+[16-Mar-2016 21:36:46 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/cs411uiflix/public_html/top_list/top_list.php on line 30
+[16-Mar-2016 21:37:26 America/Chicago] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:37:26 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:37:26 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 24
+[16-Mar-2016 21:37:26 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/cs411uiflix/public_html/top_list/top_list.php on line 30
+[16-Mar-2016 21:37:45 America/Chicago] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:37:45 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:40:26 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:40:29 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/cs411uiflix/public_html/top_list/top_list.php on line 20
+[16-Mar-2016 21:46:57 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/cs411uiflix/public_html/top_list/top_list.php on line 45
+[16-Mar-2016 21:47:38 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 21:50:07 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 21:55:06 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 21:55:07 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 21:55:10 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 21:56:36 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 21:57:35 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 21:57:35 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 21:57:37 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 22:01:23 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 22:04:00 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 22:04:01 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 22:04:38 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 22:04:39 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 22:04:41 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 22:05:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 22:05:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41
+[16-Mar-2016 22:05:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/top_list/top_list.php on line 41

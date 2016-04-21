@@ -1,0 +1,6 @@
+--- 
+"gem": '--remote --gen-rdoc --run-tests'
+"gemhome": '/home/cs411uiflix/ruby/gems'
+"gempath": []
+
+"rdoc": '--inline-source --line-numbers'

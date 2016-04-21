@@ -1,0 +1,122 @@
+[07-Apr-2016 23:28:56 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ';' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 145
+[07-Apr-2016 23:29:29 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ';' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 145
+[07-Apr-2016 23:46:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$query_favourite' (T_VARIABLE), expecting ',' or ';' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 53
+[08-Apr-2016 00:20:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 27
+[14-Apr-2016 13:22:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 13:22:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 13:22:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 13:22:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 13:22:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 13:22:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 13:22:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 14:55:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 14:55:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 14:56:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 14:58:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 15:00:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 15:01:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 15:15:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 15:36:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 15:47:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 16:45:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 16:45:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 16:45:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'something' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 16:45:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 92
+[14-Apr-2016 16:45:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 92
+[14-Apr-2016 16:45:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 92
+[14-Apr-2016 16:46:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 89
+[14-Apr-2016 16:46:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 89
+[14-Apr-2016 16:46:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 89
+[14-Apr-2016 16:46:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 89
+[14-Apr-2016 16:47:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 87
+[14-Apr-2016 16:47:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 87
+[14-Apr-2016 16:47:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 87
+[14-Apr-2016 16:47:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 87
+[14-Apr-2016 16:47:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 87
+[14-Apr-2016 16:47:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 87
+[14-Apr-2016 16:47:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 87
+[14-Apr-2016 16:47:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 87
+[14-Apr-2016 16:47:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 87
+[14-Apr-2016 16:47:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 87
+[14-Apr-2016 16:47:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'viewport' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 90
+[14-Apr-2016 18:25:47 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 18:25:54 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 77
+[14-Apr-2016 18:31:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 190
+[14-Apr-2016 18:32:34 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 78
+[14-Apr-2016 18:32:35 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 78
+[14-Apr-2016 18:32:43 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 78
+[14-Apr-2016 18:34:04 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 78
+[14-Apr-2016 18:34:06 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 78
+[14-Apr-2016 18:34:07 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 78
+[14-Apr-2016 18:34:07 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 78
+[14-Apr-2016 18:34:08 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 78
+[14-Apr-2016 18:34:20 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 78
+[14-Apr-2016 18:36:40 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 80
+[14-Apr-2016 18:36:43 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 80
+[15-Apr-2016 15:26:21 America/Chicago] PHP Warning:  mysql_result() expects at least 2 parameters, 1 given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:29:22 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:29:26 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:30:08 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:39:51 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:39:56 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:40:30 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:41:59 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:42:04 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:44:49 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:44:53 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:44:56 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:44:59 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:45:21 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 98
+[15-Apr-2016 15:45:21 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 99
+[15-Apr-2016 15:57:26 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 100
+[15-Apr-2016 15:57:32 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 100
+[15-Apr-2016 15:57:47 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 100
+[15-Apr-2016 15:57:49 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 100
+[15-Apr-2016 15:58:09 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 100
+[15-Apr-2016 15:58:12 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 100
+[15-Apr-2016 15:58:42 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 100
+[15-Apr-2016 15:58:44 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 100
+[15-Apr-2016 16:17:02 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 107
+[15-Apr-2016 16:21:47 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 106
+[15-Apr-2016 16:30:37 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 110
+[15-Apr-2016 16:30:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 110
+[15-Apr-2016 16:30:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 110
+[15-Apr-2016 16:33:05 America/Chicago] PHP Parse error:  syntax error, unexpected '_______' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 109
+[15-Apr-2016 16:33:07 America/Chicago] PHP Parse error:  syntax error, unexpected '_______' (T_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 109
+[15-Apr-2016 16:34:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$myVariable' (T_VARIABLE) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 109
+[15-Apr-2016 16:34:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$myVariable' (T_VARIABLE) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 109
+[15-Apr-2016 16:34:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$area_code' (T_VARIABLE) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 109
+[15-Apr-2016 16:34:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$area_code' (T_VARIABLE) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 109
+[15-Apr-2016 16:36:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 110
+[15-Apr-2016 16:37:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 110
+[15-Apr-2016 16:37:02 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 110
+[15-Apr-2016 16:37:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 110
+[15-Apr-2016 16:42:15 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 111
+[15-Apr-2016 16:42:22 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 111
+[15-Apr-2016 16:42:40 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 111
+[15-Apr-2016 16:42:42 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 111
+[15-Apr-2016 17:00:38 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 117
+[15-Apr-2016 17:04:23 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 122
+[15-Apr-2016 17:04:46 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 122
+[15-Apr-2016 17:04:48 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 122
+[15-Apr-2016 17:25:31 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 104
+[15-Apr-2016 17:26:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 124
+[16-Apr-2016 07:25:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 154
+[16-Apr-2016 07:26:32 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 153
+[16-Apr-2016 07:58:00 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 164
+[16-Apr-2016 21:29:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'What' (T_STRING), expecting ',' or ';' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 178
+[16-Apr-2016 21:29:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'What' (T_STRING), expecting ',' or ';' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 178
+[16-Apr-2016 21:29:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'What' (T_STRING), expecting ',' or ';' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 178
+[16-Apr-2016 21:29:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'What' (T_STRING), expecting ',' or ';' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 178
+[16-Apr-2016 21:42:39 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 166
+[16-Apr-2016 23:00:43 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 166
+[16-Apr-2016 23:02:25 America/Chicago] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 165
+[16-Apr-2016 23:04:28 America/Chicago] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 165
+[16-Apr-2016 23:04:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 169
+[16-Apr-2016 23:05:19 America/Chicago] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 165
+[16-Apr-2016 23:05:19 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 169
+[16-Apr-2016 23:06:46 America/Chicago] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 165
+[16-Apr-2016 23:07:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 198
+[16-Apr-2016 23:08:18 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 167
+[16-Apr-2016 23:10:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 169
+[16-Apr-2016 23:10:43 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/Zmovie/z_movie.php on line 169

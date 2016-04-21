@@ -1,0 +1,13 @@
+[01-Apr-2016 12:31:44 America/Chicago] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) in /home/cs411uiflix/public_html/display_movie/index.php on line 38
+[01-Apr-2016 12:32:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'DELETE' (T_STRING) in /home/cs411uiflix/public_html/display_movie/index.php on line 39
+[01-Apr-2016 12:32:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/cs411uiflix/public_html/display_movie/index.php on line 45
+[01-Apr-2016 12:33:13 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/display_movie/index.php on line 26
+[01-Apr-2016 13:30:52 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/display_movie/index.php on line 29
+[01-Apr-2016 13:31:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/display_movie/index.php on line 29
+[01-Apr-2016 13:32:47 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/display_movie/index.php on line 29
+[01-Apr-2016 13:56:34 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/display_movie/index.php on line 32
+[01-Apr-2016 16:34:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/display_movie/index.php on line 28
+[01-Apr-2016 16:34:26 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/display_movie/index.php on line 28
+[01-Apr-2016 16:34:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/display_movie/index.php on line 28
+[01-Apr-2016 16:34:34 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cs411uiflix/public_html/display_movie/index.php on line 28
+[01-Apr-2016 16:52:08 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/cs411uiflix/public_html/display_movie/index.php on line 36

@@ -1,0 +1,24 @@
+[11-Mar-2016 02:46:01 America/Chicago] PHP Fatal error:  Call to undefined function display_errors() in /home/cs411uiflix/public_html/Register/register.php on line 39
+[11-Mar-2016 02:46:25 America/Chicago] PHP Fatal error:  Call to undefined function display_errors() in /home/cs411uiflix/public_html/Register/register.php on line 39
+[11-Mar-2016 02:56:25 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wilson'@'engr-cpanel2.engr.illinois.edu' (using password: YES) in /home/cs411uiflix/public_html/Register/register.php on line 7
+[11-Mar-2016 02:56:31 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wilson'@'engr-cpanel2.engr.illinois.edu' (using password: YES) in /home/cs411uiflix/public_html/Register/register.php on line 7
+[11-Mar-2016 02:57:57 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wilson'@'engr-cpanel2.engr.illinois.edu' (using password: YES) in /home/cs411uiflix/public_html/Register/register.php on line 7
+[11-Mar-2016 02:57:58 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wilson'@'engr-cpanel2.engr.illinois.edu' (using password: YES) in /home/cs411uiflix/public_html/Register/register.php on line 7
+[11-Mar-2016 02:57:59 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wilson'@'engr-cpanel2.engr.illinois.edu' (using password: YES) in /home/cs411uiflix/public_html/Register/register.php on line 7
+[16-Mar-2016 21:52:32 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/cs411uiflix/public_html/Register/register.php on line 20
+[16-Mar-2016 21:53:56 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/cs411uiflix/public_html/Register/register.php on line 71
+[16-Mar-2016 21:53:58 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/cs411uiflix/public_html/Register/register.php on line 71
+[16-Mar-2016 22:06:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cs411uiflix/public_html/Register/register.php:135) in /home/cs411uiflix/public_html/Register/register.php on line 77
+[16-Mar-2016 23:00:23 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:05:06 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:05:07 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:05:07 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:05:10 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:07:02 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:07:03 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:07:03 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:07:04 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:07:04 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:07:04 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:07:04 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22
+[16-Mar-2016 23:07:04 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/cs411uiflix/public_html/Register/register.php on line 22

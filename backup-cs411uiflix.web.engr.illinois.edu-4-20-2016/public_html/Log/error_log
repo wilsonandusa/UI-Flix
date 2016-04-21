@@ -1,0 +1,15 @@
+[14-Mar-2016 23:28:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/cs411uiflix/public_html/Log/log_in.php on line 32
+[14-Mar-2016 23:31:55 America/Chicago] PHP Parse error:  syntax error, unexpected '"Login successful!"' (T_CONSTANT_ENCAPSED_STRING) in /home/cs411uiflix/public_html/Log/log_in.php on line 29
+[14-Mar-2016 23:32:46 America/Chicago] PHP Parse error:  syntax error, unexpected '"Login successful!"' (T_CONSTANT_ENCAPSED_STRING) in /home/cs411uiflix/public_html/Log/log_in.php on line 29
+[15-Mar-2016 21:50:01 America/Chicago] PHP Fatal error:  Call to undefined function iisset() in /home/cs411uiflix/public_html/Log/log_in.php on line 18
+[15-Mar-2016 22:13:28 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/cs411uiflix/public_html/Log/log_in.php on line 42
+[15-Mar-2016 22:14:24 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/cs411uiflix/public_html/Log/log_in.php on line 43
+[15-Mar-2016 22:19:07 America/Chicago] PHP Warning:  substr() expects parameter 1 to be string, object given in /home/cs411uiflix/public_html/Log/log_in.php on line 41
+[15-Mar-2016 22:19:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cs411uiflix/public_html/Log/log_in.php:41) in /home/cs411uiflix/public_html/Log/log_in.php on line 46
+[15-Mar-2016 22:20:12 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::row() in /home/cs411uiflix/public_html/Log/log_in.php on line 41
+[15-Mar-2016 22:32:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/cs411uiflix/public_html/Log/log_in.php on line 44
+[29-Mar-2016 22:54:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/cs411uiflix/public_html/Log/login2.php on line 31
+[29-Mar-2016 22:55:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/cs411uiflix/public_html/Log/login2.php on line 31
+[29-Mar-2016 23:03:09 America/Chicago] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/cs411uiflix/public_html/Log/login2.php on line 31
+[29-Mar-2016 23:05:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$url' (T_VARIABLE) in /home/cs411uiflix/public_html/Log/login2.php on line 32
+[29-Mar-2016 23:08:05 America/Chicago] PHP Fatal error:  Call to undefined function type() in /home/cs411uiflix/public_html/Log/login2.php on line 32

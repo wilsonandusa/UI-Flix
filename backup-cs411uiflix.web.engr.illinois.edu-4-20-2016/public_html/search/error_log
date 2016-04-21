@@ -1,0 +1,21 @@
+[14-Apr-2016 15:33:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/cs411uiflix/public_html/search/search.php on line 5
+[14-Apr-2016 15:33:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/cs411uiflix/public_html/search/search.php on line 5
+[14-Apr-2016 16:04:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$link' (T_VARIABLE) in /home/cs411uiflix/public_html/search/search.php on line 59
+[14-Apr-2016 16:08:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/cs411uiflix/public_html/search/search.php on line 36
+[14-Apr-2016 16:09:06 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/cs411uiflix/public_html/search/search.php on line 53
+[14-Apr-2016 16:09:51 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/cs411uiflix/public_html/search/search.php on line 53
+[14-Apr-2016 16:11:36 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/cs411uiflix/public_html/search/search.php on line 53
+[14-Apr-2016 16:16:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/cs411uiflix/public_html/search/search.php on line 28
+[14-Apr-2016 16:17:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/cs411uiflix/public_html/search/search.php on line 28
+[14-Apr-2016 16:18:34 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/cs411uiflix/public_html/search/search.php on line 27
+[14-Apr-2016 16:21:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$searchname' (T_VARIABLE), expecting ',' or ';' in /home/cs411uiflix/public_html/search/search.php on line 24
+[14-Apr-2016 17:03:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cs411uiflix/public_html/search/search.php:55) in /home/cs411uiflix/public_html/search/search.php on line 64
+[14-Apr-2016 17:07:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cs411uiflix/public_html/search/search.php:55) in /home/cs411uiflix/public_html/search/search.php on line 64
+[14-Apr-2016 17:07:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cs411uiflix/public_html/search/search.php:55) in /home/cs411uiflix/public_html/search/search.php on line 64
+[14-Apr-2016 17:08:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cs411uiflix/public_html/search/search.php:55) in /home/cs411uiflix/public_html/search/search.php on line 65
+[14-Apr-2016 17:08:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cs411uiflix/public_html/search/search.php:55) in /home/cs411uiflix/public_html/search/search.php on line 65
+[14-Apr-2016 17:10:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cs411uiflix/public_html/search/search.php:2) in /home/cs411uiflix/public_html/search/search.php on line 64
+[14-Apr-2016 17:11:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cs411uiflix/public_html/search/search.php:2) in /home/cs411uiflix/public_html/search/search.php on line 64
+[14-Apr-2016 17:12:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cs411uiflix/public_html/search/search.php:2) in /home/cs411uiflix/public_html/search/search.php on line 64
+[14-Apr-2016 17:13:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cs411uiflix/public_html/search/search.php:44) in /home/cs411uiflix/public_html/search/search.php on line 52
+[15-Apr-2016 16:02:32 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/cs411uiflix/public_html/search/search.php on line 54

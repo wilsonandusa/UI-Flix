@@ -1,0 +1,3 @@
+[16-Mar-2016 21:02:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET) in /home/cs411uiflix/public_html/change_pwd/change_pwd.php on line 18
+[16-Mar-2016 21:47:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/cs411uiflix/public_html/change_pwd/change_pwd.php on line 43
+[16-Mar-2016 21:47:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/cs411uiflix/public_html/change_pwd/change_pwd.php on line 44

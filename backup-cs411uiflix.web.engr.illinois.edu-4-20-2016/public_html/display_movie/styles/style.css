@@ -1,0 +1,383 @@
+﻿body {
+	color: #fff;
+	background: #000;
+	font-size: 12px;
+}
+a {
+	color: #fff;
+}
+.header_cotainer {
+	width: 100%;
+	height: 70px;
+	display: block;
+	background: url(../images/menu_bg.jpg) repeat-x;
+	overflow: hidden;
+}
+h1.logo {
+	background: url(../images/logo.jpg) no-repeat;
+	display: block;
+	width: 300px;
+	height: 70px;
+	text-indent: -9999px;
+}
+.menu_items {
+	float: right;
+}
+.menu_items a {
+	display: block;
+	text-indent: -9999px;
+	width: 96px;
+	height: 36px;
+	margin: 17px 12px 0 0;
+	float: left;
+}
+a.home_link {
+	background: url(../images/home.jpg) no-repeat;
+}
+a.home_link:hover {
+	background: url(../images/home_h.jpg) no-repeat;
+}
+a.blog_link {
+	background: url(../images/blog.jpg) no-repeat;
+}
+a.blog_link:hover {
+	background: url(../images/blog_h.jpg) no-repeat;
+}
+a.about_link {
+	background: url(../images/about.jpg) no-repeat;
+}
+a.about_link:hover {
+	background: url(../images/about_h.jpg) no-repeat;
+}
+a.contact_link {
+	background: url(../images/contact.jpg) no-repeat;
+}
+a.contact_link:hover {
+	background: url(../images/contact_h.jpg) no-repeat;
+}
+.search {
+	display: block;
+	float: left;
+	width: 200px;
+	height: 36px;
+	margin: 17px 0 0 0;
+	background: url(../images/search.jpg) no-repeat;
+}
+.search input[type=text] {
+	background: none;
+	color: #fff;
+	border: 0px none;
+	width: 150px;
+	height: 25px;
+	margin: 5px 0 0 10px;
+}
+.search input[type=submit] {
+	background: none;
+	border: 0px none;
+	text-indent: -9999px;
+	width: 36px;
+	height: 30px;
+	padding: 0;
+	cursor: pointer;
+}
+.slider_container {
+	width: 100%;
+	height: 380px;
+	display: block;
+	background: url(../images/slider_bg.jpg) repeat-x;
+	overflow: hidden;
+}
+.slider_highlight {
+	background: url(../images/slider_highlight.jpg) no-repeat;
+	height: 380px;
+	display: block;
+	background-position: center top;
+}
+/** 
+     * Beginning of Slideshow style rules from http://sixrevisions.com/tutorials/javascript_tutorial/create-a-slick-and-accessible-slideshow-using-jquery/
+     */
+    #slideshow {
+	margin: 0 auto;
+	width: 930px;
+	height: 380px;
+	background: transparent no-repeat 0 0;
+	position: relative;
+}
+#slideshow #slidesContainer {
+	margin: 0 auto;
+	width: 820px;
+	height: 380px;
+	overflow: auto; /* allow scrollbar */
+	position: relative;
+}
+#slideshow #slidesContainer .slide {
+	margin: 0 auto;
+	width: 800px; /* reduce by 20 pixels of #slidesContainer to avoid horizontal scroll */
+	height: 380px;
+}
+/** 
+     * Slideshow controls style rules.
+     */
+    .control {
+	display: block;
+	width: 55px;
+	height: 380px;
+	text-indent: -10000px;
+	position: absolute;
+	cursor: pointer;
+}
+#leftControl {
+	top: 0;
+	left: 0;
+	background: transparent url(../images/prev.png) no-repeat left 171px;
+}
+#rightControl {
+	top: 0;
+	right: 0;
+	background: transparent url(../images/next.png) no-repeat right 171px;
+}
+/** 
+     * End of Slideshow style rules from http://sixrevisions.com/tutorials/javascript_tutorial/create-a-slick-and-accessible-slideshow-using-jquery/
+     */
+
+    .slide .main_image {
+	display: block;
+	float: left;
+	width: 216px;
+	height: 296px;
+	margin: 45px 0 0 0;
+}
+.slide h2 {
+	margin: 45px 0 10px 0;
+}
+.slide p {
+	color: #bebebe;
+}
+.slide .extra_controls {
+	display: block;
+	float: left;
+	margin: 45px 0 0 0;
+}
+.slide .extra_controls .buttons {
+	display: block;
+	float: left;
+	width: 168px;
+	margin: 0 25px 0 0;
+}
+.slide .extra_controls .buttons a {
+	display: block;
+	float: left;
+	width: 168px;
+	height: 43px;
+	margin: 0 0 5px 0;
+}
+.slide .extra_controls .buttons a.discover_more {
+	background: url(../images/discover_more.png) no-repeat;
+}
+.slide .extra_controls .buttons a.discover_more:hover {
+	background: url(../images/discover_more_h.png) no-repeat;
+}
+.slide .extra_controls .buttons a.watch_video {
+	background: url(../images/watch_video.png) no-repeat;
+}
+.slide .extra_controls .buttons a.watch_video:hover {
+	background: url(../images/watch_video_h.png) no-repeat;
+}
+.slide .extra_controls .thumbnails {
+	display: block;
+	float: left;
+}
+.slide .extra_controls .thumbnails .thumbnail {
+	background: #000;
+	width: 95px;
+	height: 95px;
+	float: left;
+	display: block;
+	margin: 0 22px 0px 0;
+	-webkit-box-shadow: 1px 1px 0px #3b3b3b;
+	-moz-box-shadow: 1px 1px 0px #3b3b3b;
+	box-shadow: 1px 1px 0px #3b3b3b;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	opacity: 0.3;
+}
+.slide .extra_controls .thumbnails .thumbnail:hover {
+	opacity: 1;
+}
+.slide .extra_controls .thumbnails .thumbnail img {
+	width: 83px;
+	height: 83px;
+	border: 1px solid #272626;
+	margin: 5px 0 0 5px;
+}
+.content_container {
+	width: 100%;
+	min-height: 524px;
+	display: block;
+	background: url(../images/content_bg.jpg) repeat;
+}
+.content_highlight {
+	background: url(../images/content_highlight.jpg) no-repeat;
+	min-height: 524px;
+	display: block;
+	background-position: center top;
+}
+.content_highlight .grid_4 {
+	background: url(../images/divider_ver.jpg) repeat-y;
+	background-position: right top;
+	padding: 20px 0 0 0;
+	min-height: 524px;
+}
+.content_highlight h2 {
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: bold;
+}
+.content_highlight ul {
+	display: block;
+	padding: 0 2px 0 0;
+}
+.content_highlight ul li {
+	background: url(../images/recent_posts_bg.png) repeat;
+	padding: 5px 0 0 60px;
+	margin: 0 0 1px 0;
+	height: 25px;
+	list-style: none;
+}
+.content_highlight ul li:hover {
+	background: #000;
+	padding-left: 70px;
+}
+.content_highlight ul li a {
+	text-decoration: none;
+	display: block;
+}
+.content_highlight .divider {
+	display: block;
+	height: 3px;
+	background: url(../images/divider_hor.jpg) repeat-x;
+	margin: 0 2px 25px 0;
+}
+.content_highlight .grid_4 .thumbnail {
+	background: #000;
+	width: 72px;
+	height: 72px;
+	float: left;
+	display: block;
+	margin: 0 20px 12px 0;
+	-webkit-box-shadow: 1px 1px 0px #1f1f1f;
+	-moz-box-shadow: 1px 1px 0px #1f1f1f;
+	box-shadow: 1px 1px 0px #1f1f1f;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+.content_highlight .grid_4 .thumbnail:hover {
+	background: #333;
+	-webkit-box-shadow: 2px 2px 1px #000;
+	-moz-box-shadow: 2px 2px 1px #000;
+	box-shadow: 2px 2px 1px #000;
+}
+.content_highlight .grid_4 .thumbnail img {
+	width: 63px;
+	height: 63px;
+	border: 1px solid #272626;
+	margin: 4px 0 0 4px;
+}
+.content_highlight .grid_4 .thumbnail img:hover {
+	border-color: #111;
+}
+.content_highlight .grid_8 {
+	padding: 20px 0 0 0;
+}
+.content_highlight .grid_8 .divider {
+	margin: 15px 0 15px 150px;
+}
+.content_highlight h3 {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0 0 5px 0;
+}
+.content_highlight h3 a {
+	text-decoration: none;
+}
+.content_highlight .post {
+	display: block;
+	clear: both;
+}
+.content_highlight .post .thumbnail {
+	background: #000;
+	width: 130px;
+	height: 130px;
+	float: left;
+	display: block;
+	margin: 0 23px 12px 0;
+	-webkit-box-shadow: 1px 1px 0px #3b3b3b;
+	-moz-box-shadow: 1px 1px 0px #3b3b3b;
+	box-shadow: 1px 1px 0px #3b3b3b;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+.content_highlight .post .thumbnail:hover {
+	background: #333;
+	-webkit-box-shadow: 2px 2px 1px #000;
+	-moz-box-shadow: 2px 2px 1px #000;
+	box-shadow: 2px 2px 1px #000;
+}
+.content_highlight .post .thumbnail img {
+	width: 112px;
+	height: 112px;
+	border: 1px solid #272626;
+	margin: 8px 0 0 8px;
+}
+.content_highlight .post .thumbnail img:hover {
+	border-color: #111;
+}
+.content_highlight .post p {
+	color: #bebebe;
+	margin: 0 0 10px 0;
+}
+.content_highlight .post .post_footer .comments {
+	float: left;
+	color: #bebebe;
+	font-size: 11px;
+	margin: 0 25px 0 0;
+}
+.content_highlight .post .post_footer .share {
+	float: left;
+	margin: 0 20px 0 0;
+}
+.content_highlight .post .post_footer .share a {
+	float: left;
+	margin: 0 7px 0 0;
+}
+.content_highlight .post .post_footer .more a {
+	float: right;
+	color: #bebebe;
+	font-size: 11px;
+	font-style: italic;
+	margin: 0 25px 0 0;
+}
+.footer_container {
+	width: 100%;
+	height: 46px;
+	display: block;
+	background: url(../images/footer_bg.jpg) repeat-x;
+	overflow: hidden;
+	color: #bebebe;
+}
+.footer_container .container_12 {
+	margin-top: 14px;
+}
+.footer_container .grid_4 {
+	text-align: left;
+}
+.footer_container .grid_8 {
+	text-align: right;
+}
+.footer_container a {
+	margin: 0 6px 0 0;
+}
+.footer_container a.last {
+	margin: 0;
+}
